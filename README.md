@@ -1,2 +1,1 @@
-# CucumberT
-Test
+The project purpose is to run more BDD test with cucumber.
